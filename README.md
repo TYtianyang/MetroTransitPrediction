@@ -19,4 +19,4 @@ The PBD model is a noval creation based on PBD distribution in GLM framework. It
 a linear link function (i.e. logistic link). We also use normal approximation techniques to approach the true distribution. After setting up the MLE algorithm framework for the distribution,
 we utilized BFGS and Newton's method to compute the estimator. More details could be found in the [PBD Vignette](https://github.com/TYtianyang/MetroTransitPrediction/blob/master/PBD.pdf).
 
-![Select PDF](https://github.com/TYtianyang/MetroTransitPrediction/blob/master/PBD.pdf)
+![Embed PDF Viewer block](https://github.com/TYtianyang/MetroTransitPrediction/blob/master/PBD.pdf)
